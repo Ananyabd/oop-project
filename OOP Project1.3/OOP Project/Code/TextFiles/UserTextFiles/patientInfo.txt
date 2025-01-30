@@ -1,0 +1,33 @@
+1
+asd
+1
+ads
+a
+d
+a
+ID: 4, Name: Dr. Ayesha Rahman, Specialist: Gynecology, Contact Number: 01711567890
+ICU
+ICU1
+ID: 28, Name: Tarek Sadiq, Age: 33, Contact Number: 01977889901, Gender: Male
+2
+as
+44
+sa
+a
+a
+a
+ID: 1, Name: MD Abdullah, Specialist: Medicine, Contact Number: 01716122254
+None
+None
+None
+3
+as
+1
+as
+as
+as
+a
+ID: 5, Name: Dr. Tahmina Sultana, Specialist: Pediatrics, Contact Number: 01918765432
+None
+None
+None

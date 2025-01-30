@@ -1,0 +1,10 @@
+ID: 1, Name: MD Abdullah, Specialist: Medicine, Contact Number: 01716122254
+ID: 2, Name: MD Fahim Ahmed, Specialist: Surgery, Contact Number: 01911456723
+ID: 3, Name: MD Naimul Islam, Specialist: Cardiology, Contact Number: 01616789456
+ID: 4, Name: Dr. Ayesha Rahman, Specialist: Gynecology, Contact Number: 01711567890
+ID: 5, Name: Dr. Tahmina Sultana, Specialist: Pediatrics, Contact Number: 01918765432
+ID: 6, Name: MD Mizanur Rahman, Specialist: Orthopedics, Contact Number: 01612345678
+ID: 7, Name: Dr. Nusrat Jahan, Specialist: Dermatology, Contact Number: 01711345678
+ID: 8, Name: MD Saiful Islam, Specialist: Neurology, Contact Number: 01919876543
+ID: 9, Name: MD Farhan Hossain, Specialist: Urology, Contact Number: 01617765432
+ID: 10, Name: Dr. Shahana Akter, Specialist: ENT, Contact Number: 01711789456
